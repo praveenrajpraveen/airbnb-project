@@ -12,6 +12,7 @@ Availability Analysis by Season: Analyze the availability of Airbnb listings bas
 Location-Based Insights: Investigate how the price of listings varies across different locations. Use MongoDB queries and data aggregation techniques to extract relevant information for specific regions or neighborhoods. Visualize these insights on interactive maps or create dashboards in tools like Tableau or Power BI.
 Interactive Visualizations: Develop dynamic and interactive visualizations that allow users to filter and drill down into the data based on their preferences. Enable users to interact with the visualizations to explore specific regions, property types, or time periods of interest.
 Dashboard Creation: Utilize Tableau or Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
+
 NAME : PRAVEENRAJ S
 
 BATCH: D72D73
